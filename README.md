@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +130,7 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 ## RESULT:
