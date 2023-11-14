@@ -132,6 +132,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![Screenshot (3)](https://github.com/Soorya7/Calc/assets/105735689/de57303f-e4d9-4292-bb01-498d60d1d182)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
